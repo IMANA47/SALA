@@ -1,7 +1,10 @@
 //DOM selection
-const list ='élement #list';
-const input ='élement #input';
-const add ='élement #add';
-const clear ='élement #clear';
-const url ='élement #url';
-const load ='élement #load';
+
+const list =document.getElementById('list');
+const input =document.getElementById('input');
+const add =	document.getElementById('add');
+const clear =document.getElementById('clear');
+const url =document.getElementById('url');
+const load =document.getElementById('load');
+
+
