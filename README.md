@@ -1,2 +1,2 @@
 # SALA
-Projet pour apprendre Javascript
+Projet pour apprendre Javascript todo liste mini
